@@ -1,0 +1,49 @@
+{
+	"storyName": "curse",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "curse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tabi",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"our battle",
+			"tabi",
+			[
+				85,
+				218,
+				253
+			]
+		],
+		[
+			"eradication",
+			"tabi genocide",
+			[
+				85,
+				218,
+				253
+			]
+		],
+		[
+			"massacre",
+			"tabi genocide",
+			[
+				180,
+				0,
+				0
+			]
+		]
+				
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

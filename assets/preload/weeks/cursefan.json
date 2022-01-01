@@ -1,0 +1,48 @@
+{
+	"storyName": "Tabi B3 Knock-Off",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "curse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"my problem",
+			"B3TABI",
+			[
+				255,
+				208,
+				130
+			]
+		],
+		[
+			"retribution",
+			"B3TABI",
+			[
+				255,
+				208,
+				130
+			]
+		],
+		[
+			"homicide",
+			"B3tabi_genocide",
+			[
+				215,
+				122,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"tabi",
+		"b3",
+		"gf"
+	],
+	"weekName": "Fan Week"
+}
