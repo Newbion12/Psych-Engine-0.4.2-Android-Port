@@ -1,8 +1,8 @@
 {
-	"dialogue_pos": "right",
+	"dialogue_pos": "left",
 	"position": [
-		-50,
-		50
+		180,
+		20
 	],
 	"scale": 1.25,
 	"animations": [
@@ -59,5 +59,5 @@
 			"idle_name": "BF SHOCK0"
 		}
 	],
-	"image": "gf"
+	"image": "TABi_mad"
 }

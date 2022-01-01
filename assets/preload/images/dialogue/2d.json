@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey Boyfriend, I Need To Go To The Bathroom, Wait For Me Here"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep! Skbeep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ahah! Okay, Okay! You Can Escort Me There My Love"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Shy Beeps*"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Love You Too!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-talking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? TABI?!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tabi mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-right",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skbeep?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-hmm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shit..."
+		}
+	]
+}

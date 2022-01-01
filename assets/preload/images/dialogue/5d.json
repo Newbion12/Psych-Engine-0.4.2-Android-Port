@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "tabi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehehe... So, You Survived The Explosion, Huh?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-hmm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*TERRIFIED*"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-exp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*WORRIED BEEP BOPS*"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tabi mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Think Im Stupid? I knew you would bring someone with you, BUT HIM?!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-exp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep Bob Skbed"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tabi worried",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I DON'T CARE ANYMORE! I WILL KILL HER HERE AND NOW NO MATTER WHAT!!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tabi worried",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "JUST TO MAKE THAT PIECE OF CRAP SHE CALLS HER FATHER FEEL PAIN"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "tabi worried",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "JUST DIE!!!"
+		}
+	]
+}
