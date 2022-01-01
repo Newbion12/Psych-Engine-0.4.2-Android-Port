@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_b3",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1,
+	"idle_anim": "M BF Idle",
+	"confirm_anim": "M bf HEY"
+}
