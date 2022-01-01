@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey There Boyfriend! "
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Wanted To Tell You That Im Inviting You With Me To A Restaurant!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-talking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, My Father's Friend Invited Me For Some Reason"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skboop Bep? Bep Dop Boop"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's My Favorite Restaurant!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-hmm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Wonder How He Knew..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-talking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways! I Wanted To Take You Aswell, I Want Ya'll To Meet Each Other Already He's My Uncle!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-left",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "gf-letsgo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great, Then I'm Going To Call For A Taxi"
+		}
+	]
+}
